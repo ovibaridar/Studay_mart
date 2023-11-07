@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af0e09e3-0f27-4116-b04c-6922198e200b" name="Changes" comment="60-80" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2aa9242f-7f44-4cef-90a9-df79b91327f8" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XcUXLxiyUpukI4YbEFTL5TPeex" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ovi\PycharmProjects\Studay_mart\Assignment 02" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af0e09e3-0f27-4116-b04c-6922198e200b" name="Changes" comment="" />
+      <created>1698927899123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698927899123</updated>
+    </task>
+    <task id="LOCAL-00001" summary="rectangle_area">
+      <created>1698928073093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698928073093</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fahrenheit_celsius">
+      <created>1698928358705</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698928358705</updated>
+    </task>
+    <task id="LOCAL-00003" summary="calculate_sphere_volume">
+      <created>1698928516970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698928516970</updated>
+    </task>
+    <task id="LOCAL-00004" summary="calculate_sphere_volume">
+      <created>1698928539209</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698928539209</updated>
+    </task>
+    <task id="LOCAL-00005" summary="average">
+      <created>1698928693217</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698928693217</updated>
+    </task>
+    <task id="LOCAL-00006" summary="even or odd&#10;=">
+      <created>1698928787482</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698928787482</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Max number">
+      <created>1698928858187</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698928858187</updated>
+    </task>
+    <task id="LOCAL-00008" summary="leap year.">
+      <created>1698928933939</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698928933939</updated>
+    </task>
+    <task id="LOCAL-00009" summary="- , + , or 0">
+      <created>1698929101147</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698929101147</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Percentage">
+      <created>1698929174549</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698929174549</updated>
+    </task>
+    <task id="LOCAL-00011" summary="print_natural_numbers">
+      <created>1698940688735</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698940688736</updated>
+    </task>
+    <task id="LOCAL-00012" summary="16-20">
+      <created>1698940973459</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698940973459</updated>
+    </task>
+    <task id="LOCAL-00013" summary="60-80">
+      <created>1699375020169</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699375020169</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rectangle_area" />
+    <MESSAGE value="fahrenheit_celsius" />
+    <MESSAGE value="calculate_sphere_volume" />
+    <MESSAGE value="average" />
+    <MESSAGE value="even or odd&#10;=" />
+    <MESSAGE value="Max number" />
+    <MESSAGE value="leap year." />
+    <MESSAGE value="- , + , or 0" />
+    <MESSAGE value="Percentage" />
+    <MESSAGE value="print_natural_numbers" />
+    <MESSAGE value="16-20" />
+    <MESSAGE value="60-80" />
+    <option name="LAST_COMMIT_MESSAGE" value="60-80" />
+  </component>
+</project>
