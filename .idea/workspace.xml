@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af0e09e3-0f27-4116-b04c-6922198e200b" name="Changes" comment="60-80 and extra">
-      <change afterPath="$PROJECT_DIR$/Assignment 04/Data sets/price.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 04/Assignment 04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 04/Data sets/price.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +212,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699553366329</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="60-80 and extra">
+      <created>1699554163036</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1699554163036</updated>
+    </task>
+    <task id="LOCAL-00024" summary="60-80 and extra">
+      <created>1699554182967</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1699554182967</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,6 +253,7 @@
     <MESSAGE value="print_natural_numbers" />
     <MESSAGE value="16-20" />
     <MESSAGE value="60-80" />
+    <MESSAGE value="assignment 04" />
     <MESSAGE value="60-80 and extra" />
     <option name="LAST_COMMIT_MESSAGE" value="60-80 and extra" />
   </component>
