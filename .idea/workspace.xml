@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af0e09e3-0f27-4116-b04c-6922198e200b" name="Changes" comment="60-80 and extra">
+    <list default="true" id="af0e09e3-0f27-4116-b04c-6922198e200b" name="Changes" comment="Assignment 04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 04/Data sets/price.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Ovi/PycharmProjects/Studay_mart/Assignment 04/Data sets",
+    "last_opened_file_path": "C:/Users/Ovi/Tkinter",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -226,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699554182967</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Assignment 04">
+      <created>1699557683964</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1699557683964</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Assignment 04">
+      <created>1699557738510</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1699557738510</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +268,7 @@
     <MESSAGE value="60-80" />
     <MESSAGE value="assignment 04" />
     <MESSAGE value="60-80 and extra" />
-    <option name="LAST_COMMIT_MESSAGE" value="60-80 and extra" />
+    <MESSAGE value="Assignment 04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 04" />
   </component>
 </project>
