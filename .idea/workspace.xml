@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af0e09e3-0f27-4116-b04c-6922198e200b" name="Changes" comment="as05" />
+    <list default="true" id="af0e09e3-0f27-4116-b04c-6922198e200b" name="Changes" comment="Assignment 05">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="2aa9242f-7f44-4cef-90a9-df79b91327f8" />
+    <option name="defaultAccountId" value="ec9f3bc0-a5a5-435c-bcfb-d31befe4ea7a" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -237,28 +239,7 @@
       <option name="project" value="LOCAL" />
       <updated>1699557738510</updated>
     </task>
-    <task id="LOCAL-00027" summary="as05">
-      <created>1699821551936</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1699821551936</updated>
-    </task>
-    <task id="LOCAL-00028" summary="as05">
-      <created>1700069725875</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1700069725876</updated>
-    </task>
-    <task id="LOCAL-00029" summary="as05">
-      <created>1700069751538</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1700069751538</updated>
-    </task>
-    <option name="localTasksCounter" value="30" />
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,8 +269,6 @@
     <MESSAGE value="assignment 04" />
     <MESSAGE value="60-80 and extra" />
     <MESSAGE value="Assignment 04" />
-    <MESSAGE value="Assignment 05" />
-    <MESSAGE value="as05" />
-    <option name="LAST_COMMIT_MESSAGE" value="as05" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 04" />
   </component>
 </project>
