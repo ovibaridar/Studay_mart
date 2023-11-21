@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af0e09e3-0f27-4116-b04c-6922198e200b" name="Changes" comment="hello">
+    <list default="true" id="af0e09e3-0f27-4116-b04c-6922198e200b" name="Changes" comment="ass 07">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments 06/hello.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,7 +279,42 @@
       <option name="project" value="LOCAL" />
       <updated>1700242810258</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="ass 07">
+      <created>1700548595150</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1700548595150</updated>
+    </task>
+    <task id="LOCAL-00034" summary="ass 07">
+      <created>1700548656787</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1700548656787</updated>
+    </task>
+    <task id="LOCAL-00035" summary="ass 07">
+      <created>1700548678378</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1700548678378</updated>
+    </task>
+    <task id="LOCAL-00036" summary="ass 07">
+      <created>1700548697946</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1700548697946</updated>
+    </task>
+    <task id="LOCAL-00037" summary="ass 07">
+      <created>1700548772988</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1700548772988</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,6 +347,7 @@
     <MESSAGE value="Assignment 05" />
     <MESSAGE value="Assignment 06" />
     <MESSAGE value="hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+    <MESSAGE value="ass 07" />
+    <option name="LAST_COMMIT_MESSAGE" value="ass 07" />
   </component>
 </project>
