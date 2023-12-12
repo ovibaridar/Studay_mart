@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af0e09e3-0f27-4116-b04c-6922198e200b" name="Changes" comment="Decision Tree Classification on Hepatitis Dataset">
+    <list default="true" id="af0e09e3-0f27-4116-b04c-6922198e200b" name="Changes" comment="Clustering">
+      <change afterPath="$PROJECT_DIR$/aa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +33,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ovi/PycharmProjects/Studay_mart&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ovi/ML&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
@@ -328,7 +330,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701144750366</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Clustering">
+      <created>1701586485384</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1701586485384</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Clustering">
+      <created>1701586564854</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1701586564854</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,6 +379,7 @@
     <MESSAGE value="hello" />
     <MESSAGE value="ass 07" />
     <MESSAGE value="Decision Tree Classification on Hepatitis Dataset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decision Tree Classification on Hepatitis Dataset" />
+    <MESSAGE value="Clustering" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clustering" />
   </component>
 </project>
